@@ -1,7 +1,10 @@
 # About Me
 ID：Thinkgamer
+
 Email：Thinkgamer@163.com
+
 微信：
+
 微信公众号：【数据与算法联盟】
 
 注明：禁止用作商业销售
