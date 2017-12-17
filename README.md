@@ -3,7 +3,9 @@ ID：Thinkgamer
 
 Email：Thinkgamer@163.com
 
-微信：
+微信：![此处输入图片的描述](https://raw.githubusercontent.com/Thinkgamer/books/master/10%E3%80%81Picture/ThinkgamerWechat.png)
+
+微信公众号：【数据与算法联盟】![此处输入图片的描述](https://raw.githubusercontent.com/Thinkgamer/books/master/10%E3%80%81Picture/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
 
 微信公众号：【数据与算法联盟】
 
