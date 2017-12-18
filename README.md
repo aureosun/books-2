@@ -5,11 +5,11 @@ Email：Thinkgamer@163.com
 
 微信：
 <br>
-<div align="center"><img src="https://raw.githubusercontent.com/Thinkgamer/books/master/0%E3%80%81Picture/myweixin.png" width="200" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Thinkgamer/books/master/0%E3%80%81Picture/wx.png" width="200" /></div>
 <br>
 微信公众号：【数据与算法联盟】
 <br>
-<div align="center"><img src="https://raw.githubusercontent.com/Thinkgamer/books/master/0%E3%80%81Picture/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" width="200"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Thinkgamer/books/master/0%E3%80%81Picture/gzh.jpg" width="200"></div>
 
 注明：禁止用作商业销售
 
