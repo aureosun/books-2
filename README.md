@@ -9,7 +9,7 @@ Email：Thinkgamer@163.com
 <br>
 微信公众号：【数据与算法联盟】
 <br>
-<div align="center"><img src="https://raw.githubusercontent.com/Thinkgamer/books/master/0%E3%80%81Picture/gzh.jpg" width="200"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Thinkgamer/books/master/0%E3%80%81Picture/gzh.jpg" width="220"></div>
 
 注明：禁止用作商业销售
 
