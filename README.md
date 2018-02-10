@@ -71,6 +71,7 @@ Email：Thinkgamer@163.com
 ## 云计算
 - 《快学Scala》
 - Learning PySpark.pdf
+- SparkMLlib机器学习
 
 ## 统计学与概率论
 - 《概率论与数理统计》浙大版（第四版）教材
