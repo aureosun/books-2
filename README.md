@@ -73,6 +73,7 @@ Email：Thinkgamer@163.com
 - 《快学Scala》
 - Learning PySpark.pdf
 - SparkMLlib机器学习
+- Spark快速大数据分析
 
 ## 统计学与概率论
 - 《概率论与数理统计》浙大版（第四版）教材
