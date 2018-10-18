@@ -96,3 +96,6 @@ Email：Thinkgamer@163.com
 - 广告数据上的大规模机器学习.pdf
 - 绿盟大数据安全分析平台 产品白皮书.pdf
 - Xdef2013-基于机器学习和NetFPGA的智能高速入侵防御系统.ppt
+- 04-程佳-推荐广告机器学习实践
+- AAAI2018.pdf
+- Learning To Rank在个性化电商搜索中的应用
