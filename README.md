@@ -11,7 +11,7 @@ Email：Thinkgamer@163.com
 <br>
 <div align="center"><img src="https://raw.githubusercontent.com/Thinkgamer/books/master/0%E3%80%81Picture/gzh.jpg" width="230"></div>
 
-注明：禁止用作商业销售
+注明：禁止用作商业用途
 
 -----
 
@@ -83,6 +83,10 @@ Email：Thinkgamer@163.com
 ## 收藏的论文
 - 平滑系数自适应的二次指数平滑模型及其应用
 - The Structure of Collaborative Tagging Systems
+- FM
+- FFM
+- DeepFFM
+- Focal Loss for Dense Object Detection
 
 ## 杂乱无章
 - 阿里技术之瞳-p260
