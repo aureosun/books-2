@@ -60,11 +60,13 @@ Email：Thinkgamer@163.com
 ## 深度学习
 - 神经网络与机器学习（加）Simon Haykin
 - TensorFlow实战-黄文坚
+- 深度学习 中文版
 
 
 ## NLP
 - 模式识别与机器学习 中文版
 - NLP汉语自然语言处理原理与实践
+- PYTHON自然语言处理中文版
 
 ## 推荐系统
 - 推荐系统实践
@@ -74,6 +76,7 @@ Email：Thinkgamer@163.com
 - Learning PySpark.pdf
 - SparkMLlib机器学习
 - Spark快速大数据分析
+- 数据算法  Hadoop Spark大数据处理技巧
 
 ## 统计学与概率论
 - 《概率论与数理统计》浙大版（第四版）教材
