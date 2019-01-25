@@ -104,5 +104,6 @@ Email：Thinkgamer@163.com
 - AAAI2018.pdf
 - Learning To Rank在个性化电商搜索中的应用
 - 数字经济下的算法力量.pdf
+- 强化学习在阿里的技术演进与业务创新.pdf
 - A Gentle Introduction to Gradient Boosting.pdf
 - GBDT算法原理与系统设计简介.pdf
