@@ -70,6 +70,7 @@ Email：Thinkgamer@163.com
 
 ## 推荐系统
 - 推荐系统实践
+- learning-to-rank.pdf 
 
 ## 云计算
 - 《快学Scala》
@@ -102,3 +103,4 @@ Email：Thinkgamer@163.com
 - 04-程佳-推荐广告机器学习实践
 - AAAI2018.pdf
 - Learning To Rank在个性化电商搜索中的应用
+- 数字经济下的算法力量.pdf
