@@ -101,9 +101,14 @@ Email：Thinkgamer@163.com
 - 绿盟大数据安全分析平台 产品白皮书.pdf
 - Xdef2013-基于机器学习和NetFPGA的智能高速入侵防御系统.ppt
 - 04-程佳-推荐广告机器学习实践
-- AAAI2018.pdf
-- Learning To Rank在个性化电商搜索中的应用
-- 数字经济下的算法力量.pdf
-- 强化学习在阿里的技术演进与业务创新.pdf
 - A Gentle Introduction to Gradient Boosting.pdf
 - GBDT算法原理与系统设计简介.pdf
+
+## 强化学习
+- 强化学习在阿里的技术演进与业务创新.pdf
+
+## 技术集锦
+- AAAI2018.pdf
+- 数字经济下的算法力量.pdf
+- 2018美团点评算法系列.pdf
+- Learning To Rank在个性化电商搜索中的应用
