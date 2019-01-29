@@ -71,6 +71,8 @@ Email：Thinkgamer@163.com
 ## 推荐系统
 - 推荐系统实践
 - learning-to-rank.pdf 
+- Recommender Systems Handbook.pdf
+- Context-Aware-Recommender-Systems-chapter-7.pdf
 
 ## 云计算
 - 《快学Scala》
