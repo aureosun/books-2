@@ -94,6 +94,8 @@ Email：Thinkgamer@163.com
 - FFM
 - DeepFFM
 - Focal Loss for Dense Object Detection
+- Attentive Group Recommendation.pdf
+- Real-time Personalization using Embeddings for Search.pdf
 
 ## 杂乱无章
 - 阿里技术之瞳-p260
@@ -106,6 +108,8 @@ Email：Thinkgamer@163.com
 - 04-程佳-推荐广告机器学习实践
 - A Gentle Introduction to Gradient Boosting.pdf
 - GBDT算法原理与系统设计简介.pdf
+- [微博] 机器学习在微博信息流推荐应用实践.pdf
+- [知乎] 首页信息流系统的框架及机器学习技术在推荐策略中的应用.pdf
 
 ## 强化学习
 - 强化学习在阿里的技术演进与业务创新.pdf
