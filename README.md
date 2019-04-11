@@ -61,7 +61,7 @@ Email：Thinkgamer@163.com
 - 神经网络与机器学习（加）Simon Haykin
 - TensorFlow实战-黄文坚
 - 深度学习 中文版
-
+- 神经网络与深度学习
 
 ## NLP
 - 模式识别与机器学习 中文版
